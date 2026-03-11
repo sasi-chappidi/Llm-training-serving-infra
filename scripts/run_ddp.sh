@@ -1,0 +1,1 @@
+torchrun --nproc-per-node=2 -m src.train_ddp

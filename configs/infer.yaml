@@ -1,0 +1,4 @@
+checkpoint_path: checkpoints/best.pt
+max_new_tokens: 100
+temperature: 0.8
+top_k: 20

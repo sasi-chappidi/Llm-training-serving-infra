@@ -1,0 +1,10 @@
+torch
+numpy
+pyyaml
+tqdm
+fastapi
+uvicorn
+onnx
+onnxruntime
+requests
+pytest
